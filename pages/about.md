@@ -19,9 +19,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Arizona is a beautiful state, rich in history, and is ready to be explored. This project, “A Visual Postcard of Arizona’s Historical Sites”, connects four collections which highlights the impact they had on shaping the history of Arizona.These locations show their cultural and geographical significance while providing historical context, in addition to emphasizing the physical attributes of the sites. We welcome you to explore the Coronado Trail, Mission San Xavier del Bac, Fort Defiance, and the Grand Canyon! 
