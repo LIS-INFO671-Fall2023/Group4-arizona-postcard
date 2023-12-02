@@ -29,4 +29,4 @@ The San Xavier del Bac Mission is also known as the â€œWhite Dove of the Desertâ
 
 The Grand Canyon is considered one of the most iconic and most visited sites in Arizona. The historical, cultural, and geographical significance of the Grand Canyon make it a perfect addition to the visual postcard of historic Arizona. Digital resources from this collection include images of the Grand Canyon, sounds of wildlife, and a map.
 
-Many outposts, camps, and forts were built to protect settlers and communities from outlaws and Indigenous communities. One example of this is the Fort Defiance collection. Fort Defiance is in Apache County near the New Mexicoborder. Digital resources for this collection include images of the Fort, and an oral history of the restoration of the Fort.
+Many outposts, camps, and forts were built to protect settlers and communities from outlaws and Indigenous communities. One example of this is the Fort Defiance collection. Fort Defiance is in Apache County near the New Mexicoborder. Digital resources for this collection include images of the Fort.
