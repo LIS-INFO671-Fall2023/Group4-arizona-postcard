@@ -20,8 +20,11 @@ We welcome researchers and fellow enthusiasts about Arizona to pursue our collec
 ## Collection History
 
 The Coronado Trail was the first Federal Highway in the United States. It connected the state in ways never before seen and is a way to view the beauty Arizona has to offer. The Coronado Trail follows the path theorized to have been used by Francisco Vasquez de Coronado in 1540 as he searched for the fabled “Seven Cities of Cibola” (Coronado Trail, n.d.). Digital resources include scenic images and historic markers along the trail.
+
 The San Xavier del Bac Mission, also known as the “White Dove of the Desert”, is located in Tucson Arizona on the Tohono O’odham Nation Indian Reservation. The mission was founded by Padre Eusebio Kino (Father Kino) in 1692. The mission continues to serve people today as a place of worship and sanctuary. Digital resources include images of both the interior and exterior of the Mission.
+
 The Grand Canyon is considered one of the most iconic and most visited sites in Arizona. Grand Canyon National Park is located in Northern Arizona, encompasses 278 miles of the Colorado River and adjacent uplands, and is located on the ancestral homeland of eleven associated Native American Tribes. The historical, cultural, and geographical significance of the Grand Canyon makes it a perfect addition to the visual postcard of historic Arizona. Digital resources include images of the Grand Canyon, sounds of wildlife, and a map of the area.
+
 Many outposts, camps, and forts were built to protect settlers and communities from outlaws and Indigenous communities. One example of this is Fort Defiance established in 1851, about 61 years prior to Arizona becoming a state. Fort Defiance is located in Apache County on the eastern border of Arizona roughly 120 miles south of the Four Corners Monument within the Navajo Nation. Digital resources include historical images of Fort Defiance.
 
 ## Metadata
