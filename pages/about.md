@@ -26,7 +26,6 @@ The Grand Canyon is considered one of the most iconic and most visited sites in 
 Many outposts, camps, and forts were built to protect settlers and communities from outlaws and Indigenous communities. One example of this is Fort Defiance established in 1851, about 61 years prior to Arizona becoming a state. Fort Defiance is located in Apache County on the eastern border of Arizona roughly 120 miles south of the Four Corners Monument within the Navajo Nation. Digital resources include historical images of Fort Defiance.
 
 
-
 ## Metadata
 
 Our metadata includes both descriptive, administrative, and technical metadata. The names, locations, subjects, dates, creators, and descriptions of the objects contribute to the descriptive metadata while the source, URL links, and property rights apply to the administrative metadata. The file formats, file size, image dimensions, and object types associated with each item within the collection are affiliated with the included technical metadata. All metadata types and information were carefully curated to facilitate researchers in finding what they need while showcasing the objects selected. This is also to ensure the objects within the collection can be preserved, accessed, and identified in the future.
